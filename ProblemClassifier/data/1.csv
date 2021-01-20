@@ -1,0 +1,652 @@
+id,link,type
+ABCDEF,http://www.spoj.pl/problems/ABCDEF,binary search
+ACMAKER,http://www.spoj.pl/problems/ACMAKER,dp hard
+ACODE,http://www.spoj.pl/problems/ACODE,dp medium
+AE00,http://www.spoj.pl/problems/AE00,adhoc
+AE1B,http://www.spoj.pl/problems/AE1B,adhoc
+AE2A,http://www.spoj.pl/problems/AE2A,dp trick
+AIBOHP,http://www.spoj.pl/problems/AIBOHP,dp medium
+AIRLINES,http://www.spoj.pl/problems/AIRLINES,dp for one case matrix expo for other
+ALICECUB,http://www.spoj.pl/problems/ALICECUB,dp or bfs precomputation
+ALL,http://www.spoj.pl/problems/ALL,bfs nice hard implementation
+ANARC05B,http://www.spoj.pl/problems/ANARC05B,dp binary search
+ANARC05H,http://www.spoj.pl/problems/ANARC05H,dp
+ANARC07C,http://www.spoj.pl/problems/ANARC07C,simulation medium
+ANARC07G,http://www.spoj.pl/problems/ANARC07G,dp
+ANARC08B,http://www.spoj.pl/problems/ANARC08B,ad-hoc stupid
+ANARC08E,http://www.spoj.pl/problems/ANARC08E,dp
+ANARC08F,http://www.spoj.pl/problems/ANARC08F,shortest path
+ANARC08G,http://www.spoj.pl/problems/ANARC08G,elementary graph theory
+ANARC08H,http://www.spoj.pl/problems/ANARC08H,josephsus problem
+ANARC09A,http://www.spoj.pl/problems/ANARC09A,dp
+ANARC09B,http://www.spoj.pl/problems/ANARC09B,adhoc
+ANARC09C,http://www.spoj.pl/problems/ANARC09C,number theory easy
+ANARC09F,http://www.spoj.pl/problems/ANARC09F,geometry
+ANDROUND,http://www.spoj.pl/problems/ANDROUND,segment tree
+ANTTT,http://www.spoj.pl/problems/ANTTT,geometry connected components
+ARDA1,http://www.spoj.pl/problems/ARDA1,kmp
+ARITH2,http://www.spoj.pl/problems/ARITH2,adhoc
+ASSIGN,http://www.spoj.pl/problems/ASSIGN,dp
+BABTWR,http://www.spoj.pl/problems/BABTWR,easy LIS
+BABY,http://www.spoj.pl/problems/BABY,hard DP, bitmasks
+BINSTIRL,http://www.spoj.pl/problems/BINSTIRL,simple math
+BOBALLS2,http://www.spoj.pl/problems/BOBALLS2,math
+BRCKTS,http://www.spoj.pl/problems/BRCKTS,segment tree
+BROKEN,http://www.spoj.pl/problems/BROKEN,adhoc
+BRPAR,http://www.spoj.pl/problems/BRPAR,math
+BRTREE,http://www.spoj.pl/problems/BRTREE,simulation tricky
+BYTESE2,http://www.spoj.pl/problems/BYTESE2,adhoc
+CDOWN,http://www.spoj.pl/problems/CDOWN,recursion
+CERC07B,http://www.spoj.pl/problems/CERC07B,bitmasks same as DFLOOR
+CERC07K,http://www.spoj.pl/problems/CERC07K,bfs nice state
+CFRAC2,http://www.spoj.pl/problems/CFRAC2,adhoc
+CHASE,http://www.spoj.pl/problems/CHASE,adhoc
+CHMAZE,http://www.spoj.pl/problems/CHMAZE,BFS nice state
+CISTFILL,http://www.spoj.pl/problems/CISTFILL,binary search
+CLEANRBT,http://www.spoj.pl/problems/CLEANRBT,BFS then DP, hard
+CLIQSEP,http://www.spoj.pl/problems/CLIQSEP,simple adhoc
+COCONUTS,http://www.spoj.pl/problems/COCONUTS,maxflow, mincut
+COMPANY,http://www.spoj.pl/problems/COMPANY,graph theory remove transitions
+COUNT,http://www.spoj.pl/problems/COUNT,dp hard
+COURIER,http://www.spoj.pl/problems/COURIER,dp bitmasks
+CPRIME,http://www.spoj.pl/problems/CPRIME,number theory
+CPU,http://www.spoj.pl/problems/CPU,adhoc
+CRSCNTRY,http://www.spoj.pl/problems/CRSCNTRY,dp very easy
+CSUBSEQS,http://www.spoj.pl/problems/CSUBSEQS,dp medium
+CTGAME,http://www.spoj.pl/problems/CTGAME,dp
+CUBERT,http://www.spoj.pl/problems/CUBERT,newton raphson or binary search
+CVJETICI,http://www.spoj.pl/problems/CVJETICI,bit
+CYLINDER,http://www.spoj.pl/problems/CYLINDER,simple math
+CZ_PROB1,http://www.spoj.pl/problems/CZ_PROB1,dp easy
+DEADFR,http://www.spoj.pl/problems/DEADFR,adhoc
+DEPEND,http://www.spoj.pl/problems/DEPEND,topological sort
+DEPOSIT,http://www.spoj.pl/problems/DEPOSIT,math
+DFLOOR,http://www.spoj.pl/problems/DFLOOR,same as CERC07B
+DISTANCE,http://www.spoj.pl/problems/DISTANCE,adhoc
+DIV2,http://www.spoj.pl/problems/DIV2,number theory
+DIV,http://www.spoj.pl/problems/DIV,number theory
+DIVSUM,http://www.spoj.pl/problems/DIVSUM,number theory precomputation
+DOORSPEN,http://www.spoj.pl/problems/DOORSPEN,geometry convex hull
+DP,http://www.spoj.pl/problems/DP,dp
+DQUERY,http://www.spoj.pl/problems/DQUERY,segment tree merge sort
+DSUBSEQ,http://www.spoj.pl/problems/DSUBSEQ,dp
+EASYPROB,http://www.spoj.pl/problems/EASYPROB,adhoc
+EDIST,http://www.spoj.pl/problems/EDIST,dp easy
+EDS,http://www.spoj.pl/problems/EDS,adhoc
+ENCONDIN,http://www.spoj.pl/problems/ENCONDIN,adhoc
+ETF,http://www.spoj.pl/problems/ETF,number theory
+EXPEDI,http://www.spoj.pl/problems/EXPEDI,greedy data-structure
+FACT0,http://www.spoj.pl/problems/FACT0,number theory sieve
+FACT1,http://www.spoj.pl/problems/FACT1,pollard rho
+FACVSPOW,http://www.spoj.pl/problems/FACVSPOW,simple math binary search
+FAKETSP,http://www.spoj.pl/problems/FAKETSP,beginner rubbish
+FAMILYP,http://www.spoj.pl/problems/FAMILYP,simulation
+FCANDY,http://www.spoj.pl/problems/FCANDY,DP weak test data assume difference doesnt exceed 200
+FCTRL2,http://www.spoj.pl/problems/FCTRL2,simple math
+FENCE1,http://www.spoj.pl/problems/FENCE1,simple math
+FERT21_0,http://www.spoj.pl/problems/FERT21_0,adhoc big integer easy
+FINDPRM,http://www.spoj.pl/problems/FINDPRM,number theory sieve dp binary search adhoc
+FNRANK,http://www.spoj.pl/problems/FNRANK,number theory inclusion exclusion
+FP,http://www.spoj.pl/problems/FP,dp greedy
+FPOLICE,http://www.spoj.pl/problems/FPOLICE,dp
+FRACTION,http://www.spoj.pl/problems/FRACTION,farey sequences
+FREQUENT,http://www.spoj.pl/problems/FREQUENT,segment trees
+FRQPRIME,http://www.spoj.pl/problems/FRQPRIME,number theory binary search math
+FSEATS,http://www.spoj.pl/problems/FSEATS,dp
+FUNPROB,http://www.spoj.pl/problems/FUNPROB,math
+GCDEX,http://www.spoj.pl/problems/GCDEX,number theory
+GEM,http://www.spoj.pl/problems/GEM,simulation
+GEOPROB,http://www.spoj.pl/problems/GEOPROB,geometry bigint easy
+GEORGE,http://www.spoj.pl/problems/GEORGE,dijkstra nice
+GNY07C,http://www.spoj.pl/problems/GNY07C,adhoc
+GNY07D,http://www.spoj.pl/problems/GNY07D,adhoc
+GNY07F,http://www.spoj.pl/problems/GNY07F,adhoc
+GNY07H,http://www.spoj.pl/problems/GNY07H,dp bitmask tricky harder version of BYTESH1, M3TILE
+GNYR09F,http://www.spoj.pl/problems/GNYR09F,dp easy
+GOALFR,http://www.spoj.pl/problems/GOALFR,geometry easy
+GORELIAN,http://www.spoj.pl/problems/GORELIAN,bfs hard on implementation
+GS,http://www.spoj.pl/problems/GS,gaussian elimination
+GSS1,http://www.spoj.pl/problems/GSS1,segment tree easy
+GSS3,http://www.spoj.pl/problems/GSS3,segment tree easy
+HAMSTER1,http://www.spoj.pl/problems/HAMSTER1,math trigonometry ternary search
+HANGOVER,http://www.spoj.pl/problems/HANGOVER,simple math
+HEAPULM,http://www.spoj.pl/problems/HEAPULM,sorting recursion easy segment trees
+HELLOKIT,http://www.spoj.pl/problems/HELLOKIT,beginner easy
+HELPBOB,http://www.spoj.pl/problems/HELPBOB,dp bitmask
+HELPR2D2,http://www.spoj.pl/problems/HELPR2D2,segment tree data-structure
+HERDING,http://www.spoj.pl/problems/HERDING,bfs
+HIKE,http://www.spoj.pl/problems/HIKE,bfs
+HIST2,http://www.spoj.pl/problems/HIST2,dp bitmask
+HISTOGRA,http://www.spoj.pl/problems/HISTOGRA,adhoc
+HS08FOUR,http://www.spoj.pl/problems/HS08FOUR,matrix expo hard
+HS08PAUL,http://www.spoj.pl/problems/HS08PAUL,number theory easy
+IMAGE,http://www.spoj.pl/problems/IMAGE,flood fill add up 4 - neighbours for each cell
+IM,http://www.spoj.pl/problems/IM,maxflow
+IMPORT,http://www.spoj.pl/problems/IMPORT,floyd warshall
+INCARDS,http://www.spoj.pl/problems/INCARDS,bfs
+INCPOWK,http://www.spoj.pl/problems/INCPOWK,number theory adhoc easy
+INCSEQ,http://www.spoj.pl/problems/INCSEQ,dp + BIT
+INTEGER1,http://www.spoj.pl/problems/INTEGER1,binary search
+INTERVA2,http://www.spoj.pl/problems/INTERVA2,sorting datastructure bit
+INUMBER,http://www.spoj.pl/problems/INUMBER,bfs
+INVCNT,http://www.spoj.pl/problems/INVCNT,bit or merge sort
+INVENT,http://www.spoj.pl/problems/INVENT,disjoint sets adhoc
+JANE,http://www.spoj.pl/problems/JANE,bfs medium
+JEDNAKOS,http://www.spoj.pl/problems/JEDNAKOS,dp
+JOCHEF,http://www.spoj.pl/problems/JOCHEF,dp
+JRIDE,http://www.spoj.pl/problems/JRIDE,adhoc
+KGSS,http://www.spoj.pl/problems/KGSS,segment tree
+KPMATRIX,http://www.spoj.pl/problems/KPMATRIX,dp BIT hard
+KPPOLY,http://www.spoj.pl/problems/KPPOLY,geometry ternary search
+KSEQ,http://www.spoj.pl/problems/KSEQ,math
+LAGRANGE,http://www.spoj.pl/problems/LAGRANGE,adhoc
+LCMSUM,http://www.spoj.pl/problems/LCMSUM,number theory
+LEGO,http://www.spoj.pl/problems/LEGO,sparse graphs co-ordinate compression connected components
+LIFEGAME,http://www.spoj.pl/problems/LIFEGAME,matrix exponentiation
+LIM,http://www.spoj.pl/problems/LIM,gaussian elimination
+LINES,http://www.spoj.pl/problems/LINES,math adhoc
+LSORT,http://www.spoj.pl/problems/LSORT,dp bit
+M00PAIR,http://www.spoj.pl/problems/M00PAIR,dp
+M3TILE,http://www.spoj.pl/problems/M3TILE,dp bitmask harder version of BYTESH1
+MARBLES,http://www.spoj.pl/problems/MARBLES,adhoc
+MARTIAN,http://www.spoj.pl/problems/MARTIAN,dp hard
+MATSUM,http://www.spoj.pl/problems/MATSUM,2D BIT
+MAWORK,http://www.spoj.pl/problems/MAWORK,bfs good state
+MAXSUMSQ,http://www.spoj.pl/problems/MAXSUMSQ,adhoc data-structure
+MB1,http://www.spoj.pl/problems/MB1,adhoc number theory
+MBEEWALK,http://www.spoj.pl/problems/MBEEWALK,dp different dx, dy
+MBIPALIN,http://www.spoj.pl/problems/MBIPALIN,adhoc
+MBLAST,http://www.spoj.pl/problems/MBLAST,dp easy
+MCHAOS,http://www.spoj.pl/problems/MCHAOS,bit
+MCIRGAME,http://www.spoj.pl/problems/MCIRGAME,big int dp catalan numbers google it
+MCOINS,http://www.spoj.pl/problems/MCOINS,very easy DP
+MCONVERT,http://www.spoj.pl/problems/MCONVERT,big integer
+MDIGITS,http://www.spoj.pl/problems/MDIGITS,adhoc
+MELE3,http://www.spoj.pl/problems/MELE3,dijkstra
+MENU,http://www.spoj.pl/problems/MENU,medium dp
+MEOWIST,http://www.spoj.pl/problems/MEOWIST,beginner easy sorting
+MFISH,http://www.spoj.pl/problems/MFISH,dp hard
+MIB,http://www.spoj.pl/problems/MIB,rank of a permutation
+MICEMAZE,http://www.spoj.pl/problems/MICEMAZE,dijkstra / bfs
+MINVEST,http://www.spoj.pl/problems/MINVEST,dp knapsack medium
+MIXTURES,http://www.spoj.pl/problems/MIXTURES,medium dp, see matrix chain multiplication CLRS
+MKBUDGET,http://www.spoj.pl/problems/MKBUDGET,easy dp
+MKJUMPS,http://www.spoj.pl/problems/MKJUMPS,backtracking
+MKLABELS,http://www.spoj.pl/problems/MKLABELS,math
+MKMONEY,http://www.spoj.pl/problems/MKMONEY,adhoc
+MKPALS,http://www.spoj.pl/problems/MKPALS,adhoc
+MKTHNUM,http://www.spoj.pl/problems/MKTHNUM,segment tree merge sort
+MKUHAR,http://www.spoj.pl/problems/MKUHAR,simple math binary search hard
+MKWAVES,http://www.spoj.pl/problems/MKWAVES,brute force
+MLAND,http://www.spoj.pl/problems/MLAND,kruskals ternary search
+MLASERP,http://www.spoj.pl/problems/MLASERP,BFS normal
+MMASS,http://www.spoj.pl/problems/MMASS,adhoc string parsin
+MMATRIX,http://www.spoj.pl/problems/MMATRIX,brute force
+MMAXPER,http://www.spoj.pl/problems/MMAXPER,dp easy
+MMINPAID,http://www.spoj.pl/problems/MMINPAID,dp / bfs bitmask
+MNERED,http://www.spoj.pl/problems/MNERED,dp
+MOBIVINA,http://www.spoj.pl/problems/MOBIVINA,maxflow, mincut
+MONODIG,http://www.spoj.pl/problems/MONODIG,bfs hard
+MONONUM,http://www.spoj.pl/problems/MONONUM,dp
+MORSE,http://www.spoj.pl/problems/MORSE,dp medium
+MOVIE,http://www.spoj.pl/problems/MOVIE,math
+MPILOT,http://www.spoj.pl/problems/MPILOT,dp easy
+MPOLY,http://www.spoj.pl/problems/MPOLY,geometry ternary search
+MREPLBRC,http://www.spoj.pl/problems/MREPLBRC,dp v.hard
+MSAFE,http://www.spoj.pl/problems/MSAFE,adhoc data-structure
+MSE06H,http://www.spoj.pl/problems/MSE06H,BIT easy
+MSE08G,http://www.spoj.pl/problems/MSE08G,adhoc precomputation
+MSE08H,http://www.spoj.pl/problems/MSE08H,math
+MSKYCODE,http://www.spoj.pl/problems/MSKYCODE,squarefree numbers inclusion-exclusion
+MSTRING,http://www.spoj.pl/problems/MSTRING,dp medium
+MTOTALF,http://www.spoj.pl/problems/MTOTALF,maxflow easy
+MUL2COM,http://www.spoj.pl/problems/MUL2COM,big integer
+MYSTIC,http://www.spoj.pl/problems/MYSTIC,math dp
+MZVRK,http://www.spoj.pl/problems/MZVRK,adhoc easy
+NDIVPHI,http://www.spoj.pl/problems/NDIVPHI,math number theory
+NETADMIN,http://www.spoj.pl/problems/NETADMIN,maxflow
+NG0FRCTN,http://www.spoj.pl/problems/NG0FRCTN,adhoc
+NGM2,http://www.spoj.pl/problems/NGM2,number theory inclusion exclusion
+NGON,http://www.spoj.pl/problems/NGON,dp
+NHAY,http://www.spoj.pl/problems/NHAY,KMP
+NICEDAY,http://www.spoj.pl/problems/NICEDAY,segment tree
+NOCHANGE,http://www.spoj.pl/problems/NOCHANGE,dp hard
+NOTATRI,http://www.spoj.pl/problems/NOTATRI,binary search
+NUMQDW,http://www.spoj.pl/problems/NUMQDW,matrix exponentiation
+ODDDIV,http://www.spoj.pl/problems/ODDDIV,number theory precomputation fast IO
+ONEZERO,http://www.spoj.pl/problems/ONEZERO,bfs simple
+ORDERS,http://www.spoj.pl/problems/ORDERS,bit
+PA06ANT,http://www.spoj.pl/problems/PA06ANT,graph theory matrix exponentiation
+PAIRGRPH,http://www.spoj.pl/problems/PAIRGRPH,brute force
+PARADOX,http://www.spoj.pl/problems/PARADOX,graph theory adhoc
+PARTIT,http://www.spoj.pl/problems/PARTIT,dp easy
+PARTPALI,http://www.spoj.pl/problems/PARTPALI,dp
+PARTY,http://www.spoj.pl/problems/PARTY,dp easy
+PATHEADS,http://www.spoj.pl/problems/PATHEADS,concept of bucket sort and sieve
+PATULJCI,http://www.spoj.pl/problems/PATULJCI,binary search random
+PDECODE,http://www.spoj.pl/problems/PDECODE,permutation exponentiation
+PERIOD,http://www.spoj.pl/problems/PERIOD,KMP
+PERMUT1,http://www.spoj.pl/problems/PERMUT1,dp
+PFDEP,http://www.spoj.pl/problems/PFDEP,topological sort
+PHIDIAS,http://www.spoj.pl/problems/PHIDIAS,dp easy
+PHONELST,http://www.spoj.pl/problems/PHONELST,sorting
+PHONY,http://www.spoj.pl/problems/PHONY,number theory
+PIE,http://www.spoj.pl/problems/PIE,binary search easy
+PIGBANK,http://www.spoj.pl/problems/PIGBANK,dp easy ugly optimisations needed
+PIZZALOC,http://www.spoj.pl/problems/PIZZALOC,bitmasks easy
+PLHOP,http://www.spoj.pl/problems/PLHOP,matrix exponentiation
+PON,http://www.spoj.pl/problems/PON,miller rabin primality testing
+POTHOLE,http://www.spoj.pl/problems/POTHOLE,bfs topological sort
+PRHYME,http://www.spoj.pl/problems/PRHYME,tries
+PRIME1,http://www.spoj.pl/problems/PRIME1,number theory
+PRO,http://www.spoj.pl/problems/PRO,set
+PT07X,http://www.spoj.pl/problems/PT07X,dp on tree
+PYRA,http://www.spoj.pl/problems/PYRA,adhoc graph theory
+QCJ2,http://www.spoj.pl/problems/QCJ2,dp
+QUEEN,http://www.spoj.pl/problems/QUEEN,bfs hard
+QUERYSTR,http://www.spoj.pl/problems/QUERYSTR,prefix table
+QUEST4,http://www.spoj.pl/problems/QUEST4,matching
+RACETIME,http://www.spoj.pl/problems/RACETIME,adhoc data-structure
+RAIN3,http://www.spoj.pl/problems/RAIN3,dp easy
+RAINBOW,http://www.spoj.pl/problems/RAINBOW,dp knapsack on components easy
+RATING,http://www.spoj.pl/problems/RATING,bit
+REC,http://www.spoj.pl/problems/REC,big integer math
+RELINETS,http://www.spoj.pl/problems/RELINETS,brute force disjoint sets
+REMGAME,http://www.spoj.pl/problems/REMGAME,recursion memoisation easy weak test data
+RENT,http://www.spoj.pl/problems/RENT,dp binary search to convert n^2 to nlogn
+RESN04,http://www.spoj.pl/problems/RESN04,adhoc math
+RIGHTTRI,http://www.spoj.pl/problems/RIGHTTRI,binary search
+RLM,http://www.spoj.pl/problems/RLM,beginner easy rubbish
+ROADNET,http://www.spoj.pl/problems/ROADNET,beginner easy
+ROBBERY2,http://www.spoj.pl/problems/ROBBERY2,math adhoc
+ROCK,http://www.spoj.pl/problems/ROCK,easy dp
+RRSCHED,http://www.spoj.pl/problems/RRSCHED,datastructure BIT efficient simulation
+SAMER08A,http://www.spoj.pl/problems/SAMER08A,3 dijkstras basic graph theory
+SAMER08C,http://www.spoj.pl/problems/SAMER08C,dp medium
+SAMER08D,http://www.spoj.pl/problems/SAMER08D,dp hard
+SAMER08E,http://www.spoj.pl/problems/SAMER08E,beginner easy
+SAMER08F,http://www.spoj.pl/problems/SAMER08F,beginner easy
+SAMER08G,http://www.spoj.pl/problems/SAMER08G,beginner easy
+SCALE,http://www.spoj.pl/problems/SCALE,brute force binary search
+SCAVHUNT,http://www.spoj.pl/problems/SCAVHUNT,beginner easy
+SCUBADIV,http://www.spoj.pl/problems/SCUBADIV,dp easy
+SEQ5,http://www.spoj.pl/problems/SEQ5,adhoc data-structure
+SEQ6,http://www.spoj.pl/problems/SEQ6,math
+SEQ,http://www.spoj.pl/problems/SEQ,matrix exponentiation recurrence
+SERVICE,http://www.spoj.pl/problems/SERVICE,dp
+SETNJA,http://www.spoj.pl/problems/SETNJA,adhoc biginteger
+SHPATH,http://www.spoj.pl/problems/SHPATH,dijkstra
+SOLIT,http://www.spoj.pl/problems/SOLIT,bfs hard
+SQFREE,http://www.spoj.pl/problems/SQFREE,number theory sieve hard inclusion exclusion
+SQRBR,http://www.spoj.pl/problems/SQRBR,dp easy
+SSHUFFLE,http://www.spoj.pl/problems/SSHUFFLE,dp medium
+STABARDS,http://www.spoj.pl/problems/STABARDS,matching
+STABLEMP,http://www.spoj.pl/problems/STABLEMP,as name suggests
+STREET,http://www.spoj.pl/problems/STREET,dp hard
+SUBS,http://www.spoj.pl/problems/SUBS,binary search
+SUBSEQ,http://www.spoj.pl/problems/SUBSEQ,simple datastructure
+SUBSUMS,http://www.spoj.pl/problems/SUBSUMS,bitmasks binary search
+SUMFOUR,http://www.spoj.pl/problems/SUMFOUR,binary search easy
+SVADA,http://www.spoj.pl/problems/SVADA,binary search hard
+SWTHIN,http://www.spoj.pl/problems/SWTHIN,adhoc math
+TAXI,http://www.spoj.pl/problems/TAXI,matching maxflow
+TEM,http://www.spoj.pl/problems/TEM,dp
+TEMPTISL,http://www.spoj.pl/problems/TEMPTISL,dp easy
+TETRAVEX,http://www.spoj.pl/problems/TETRAVEX,brute force adhoc
+THREECOL,http://www.spoj.pl/problems/THREECOL,dp
+TOURIST,http://www.spoj.pl/problems/TOURIST,dp hard
+TPERML,http://www.spoj.pl/problems/TPERML,unranking a permutation
+TRAFFICN,http://www.spoj.pl/problems/TRAFFICN,dijkstra easy basic graph theory
+TREE1,http://www.spoj.pl/problems/TREE1,big int math
+TREE,http://www.spoj.pl/problems/TREE,combinatrics recursion dp/memoisation big integer
+TRGRID,http://www.spoj.pl/problems/TRGRID,adhoc
+TRIP,http://www.spoj.pl/problems/TRIP,dp, efficient reconstruction
+TRSTAGE,http://www.spoj.pl/problems/TRSTAGE,dijkstra bitmasks medium
+TRT,http://www.spoj.pl/problems/TRT,dp
+TTTABLE,http://www.spoj.pl/problems/TTTABLE,adhoc
+TUTMRBL,http://www.spoj.pl/problems/TUTMRBL,easy number theory
+TWINSNOW,http://www.spoj.pl/problems/TWINSNOW,
+UCI2009B,http://www.spoj.pl/problems/UCI2009B,number theory easy
+UCI2009D,http://www.spoj.pl/problems/UCI2009D,backtracking
+UJ,http://www.spoj.pl/problems/UJ,easy bigint math
+UPSUB,http://www.spoj.pl/problems/UPSUB,dp LIS
+VBOSS,http://www.spoj.pl/problems/VBOSS,dp hard sorting
+VGCD,http://www.spoj.pl/problems/VGCD,big integer adhoc
+VMILI,http://www.spoj.pl/problems/VMILI,geometry convex hull
+VOCV,http://www.spoj.pl/problems/VOCV,dp on tree, harder version of PT07X
+VONNY,http://www.spoj.pl/problems/VONNY,backtracking
+WEIRDFN,http://www.spoj.pl/problems/WEIRDFN,data-structure
+WIJGT,http://www.spoj.pl/problems/WIJGT,geometry dfs
+WORMS,http://www.spoj.pl/problems/WORMS,dp big integer
+WSCIPHER,http://www.spoj.pl/problems/WSCIPHER,adhoc
+XOINC,http://www.spoj.pl/problems/XOINC,dp
+YAPP,http://www.spoj.pl/problems/YAPP,adhoc
+YODA,http://www.spoj.pl/problems/YODA,dp easy
+YODANESS,http://www.spoj.pl/problems/YODANESS,bit or segment tree or merge sort
+ANGELS,http://www.spoj.pl/problems/ANGELS,Bipartite Matching
+CATTLEB,http://www.spoj.pl/problems/CATTLEB,Computational Geometry, Physics
+DISJPATH,http://www.spoj.pl/problems/DISJPATH,Maximum Flow
+GUESSING,http://www.spoj.pl/problems/GUESSING,Binary Search
+MTREE,http://www.spoj.pl/problems/MTREE,dp on tree
+PALIN,http://www.spoj.pl/problems/PALIN,Adhoc
+SUBST1,http://www.spoj.pl/problems/SUBST1,Suffix Arrays
+ARRANGE,http://www.spoj.pl/problems/ARRANGE,Sorting
+DISQUERY,http://www.spoj.pl/problems/DISQUERY,Lowest Common Ancestor
+MATCHING,http://www.spoj.pl/problems/MATCHING,Maximum Matching
+TREASURY,http://www.spoj.pl/problems/TREASURY,dp on tree, bignum
+BOOKS1,http://www.spoj.pl/problems/BOOKS1,Binary Search
+CNTTREE,http://www.spoj.pl/problems/CNTTREE,dp on tree
+DISUBSTR,http://www.spoj.pl/problems/DISUBSTR,Suffix Arrays
+MATGAME,http://www.spoj.pl/problems/MATGAME,Grundy numbers
+MUDDY,http://www.spoj.pl/problems/MUDDY,Maximum Matching
+PLD,http://www.spoj.pl/problems/PLD,Suffix Arrays, Manacher's
+TWENDS,http://www.spoj.pl/problems/TWENDS,dp
+BOTTOM,http://www.spoj.pl/problems/BOTTOM,Strongly Connected Components
+CORNET,http://www.spoj.pl/problems/CORNET,Disjoint Set Data Structure
+EPALIN,http://www.spoj.pl/problems/EPALIN,KMP, Manacher's
+MDOLLS,http://www.spoj.pl/problems/MDOLLS,Greedy
+QTREE2,http://www.spoj.pl/problems/QTREE2,Lowest Common Ancestor
+TWOPATHS,http://www.spoj.pl/problems/TWOPATHS,dp on tree
+BUILDING,http://www.spoj.pl/problems/BUILDING,Line Sweep
+CPCRC1C,http://www.spoj.pl/problems/CPCRC1C,Simple dp
+FASTFLOW,http://www.spoj.pl/problems/FASTFLOW,Maximum Flow
+MROADS,http://www.spoj.pl/problems/MROADS,Binary search
+SCITIES,http://www.spoj.pl/problems/SCITIES,Hungarian Algorithm
+CATM,http://www.spoj.pl/problems/CATM,BFS
+CTRICK,http://www.spoj.pl/problems/CTRICK,Segment Tree
+GREED,http://www.spoj.pl/problems/GREED,Minimum Cost Maximum Flow
+MSE06I,http://www.spoj.pl/problems/MSE06I,Minimum Cost Maximum Flow
+NUMOFPAL,http://www.spoj.pl/problems/NUMOFPAL,Suffix Arrays, Manacher's
+SHOP2,http://www.spoj.pl/problems/SHOP2,Maximum Flow
+,http://www.spoj.pl/problems/,
+ABA12C,http://www.spoj.pl/problems/ABA12C,dp
+ACQUIRE,http://www.spoj.pl/problems/ACQUIRE,dp convex hull trick
+ACTIV,http://www.spoj.pl/problems/ACTIV,dp, binary search
+ADDREV,http://www.spoj.pl/problems/ADDREV,ad hoc
+ADFRUITS,http://www.spoj.pl/problems/ADFRUITS,dp lcs, backtracking
+AEROLITE,http://www.spoj.pl/problems/AEROLITE,dp
+AGGRCOW,http://www.spoj.pl/problems/AGGRCOW,binary search
+AKVQLD03,http://www.spoj.pl/problems/AKVQLD03,binary indexed tree
+ALIEN,http://www.spoj.pl/problems/ALIEN,sliding window
+ALLIZWEL,http://www.spoj.pl/problems/ALLIZWEL,dfs
+AMR10G,http://www.spoj.pl/problems/AMR10G,ad hoc
+AMR11E,http://www.spoj.pl/problems/AMR11E,sieve, math
+AMR12D,http://www.spoj.pl/problems/AMR12D,ad hoc
+APIO10A,http://www.spoj.pl/problems/APIO10A,dp convex hull trick
+APS,http://www.spoj.pl/problems/APS,sieve
+ARRAYSUB,http://www.spoj.pl/problems/ARRAYSUB,rmq
+ATOMS,http://www.spoj.pl/problems/ATOMS,simple math, biginteger
+BADXOR,http://www.spoj.pl/problems/BADXOR,dp
+BANKROB,http://www.spoj.pl/problems/BANKROB,maxflow
+BAT1,http://www.spoj.pl/problems/BAT1,dp
+BAT2,http://www.spoj.pl/problems/BAT2,dp
+BAT3,http://www.spoj.pl/problems/BAT3,dp
+BAT4,http://www.spoj.pl/problems/BAT4,dp
+BCAKE,http://www.spoj.pl/problems/BCAKE,dp max 2d range sum
+BENEFACT,http://www.spoj.pl/problems/BENEFACT,dfs, longest path
+BISHOPS,http://www.spoj.pl/problems/BISHOPS,simple math, biginteger
+BLOPER,http://www.spoj.pl/problems/BLOPER,greedy
+BLOPER2,http://www.spoj.pl/problems/BLOPER2,binary search, meet in the middle, bitmasks
+BORW,http://www.spoj.pl/problems/BORW,dp
+BRDGHRD,http://www.spoj.pl/problems/BRDGHRD,binary indexed tree
+BRIDGE,http://www.spoj.pl/problems/BRIDGE,binary indexed tree
+BRKSTRNG,http://www.spoj.pl/problems/BRKSTRNG,knuth's optimization
+BUGLIFE,http://www.spoj.pl/problems/BUGLIFE,dfs
+BUSYMAN,http://www.spoj.pl/problems/BUSYMAN,greedy, interval scheduling
+BWIDOW,http://www.spoj.pl/problems/BWIDOW,ad hoc
+BYTESM2,http://www.spoj.pl/problems/BYTESM2,dp
+CADYDIST,http://www.spoj.pl/problems/CADYDIST,ad hoc
+CAGES,http://www.spoj.pl/problems/CAGES,hard ad hoc
+CAM5,http://www.spoj.pl/problems/CAM5,dfs
+CANDY,http://www.spoj.pl/problems/CANDY,ad hoc
+CANDY3,http://www.spoj.pl/problems/CANDY3,ad hoc
+CAPCITY,http://www.spoj.pl/problems/CAPCITY,strongly connected components
+CBANK,http://www.spoj.pl/problems/CBANK,math
+CDC12_H,http://www.spoj.pl/problems/CDC12_H,segment tree
+CERC07S,http://www.spoj.pl/problems/CERC07S,treap with implicit keys
+CLOPPAIR,http://www.spoj.pl/problems/CLOPPAIR,geometry, line sweep
+CNTPRIME,http://www.spoj.pl/problems/CNTPRIME,segment tree
+COD1,http://www.spoj.pl/problems/COD1,ad hoc
+CODERE3,http://www.spoj.pl/problems/CODERE3,dp lis, lds
+CODESPTB,http://www.spoj.pl/problems/CODESPTB,inversion count
+CODFURY,http://www.spoj.pl/problems/CODFURY,sliding window
+COINS,http://www.spoj.pl/problems/COINS,dp
+COLORSEG,http://www.spoj.pl/problems/COLORSEG,dp
+COMBAT,http://www.spoj.pl/problems/COMBAT,binary indexed tree
+COURAGE,http://www.spoj.pl/problems/COURAGE,segment tree
+CRAN02,http://www.spoj.pl/problems/CRAN02,ad hoc, math
+CRAN04,http://www.spoj.pl/problems/CRAN04,binary search
+CRYPTO,http://www.spoj.pl/problems/CRYPTO,trivia problem, bigint
+CSHOWB,http://www.spoj.pl/problems/CSHOWB,ad hoc
+CSTREET,http://www.spoj.pl/problems/CSTREET,mst
+CTOI09_1,http://www.spoj.pl/problems/CTOI09_1,binary search, bfs
+CUBEFR,http://www.spoj.pl/problems/CUBEFR,sieve
+CUBES,http://www.spoj.pl/problems/CUBES,ad hoc
+DAVIDG,http://www.spoj.pl/problems/DAVIDG,mst
+DCEPC11B,http://www.spoj.pl/problems/DCEPC11B,math
+DCEPC12E,http://www.spoj.pl/problems/DCEPC12E,ad hoc, matrix update operations
+DCEPC206,http://www.spoj.pl/problems/DCEPC206,binary indexed tree
+DCEPC501,http://www.spoj.pl/problems/DCEPC501,dp
+DCEPCA03,http://www.spoj.pl/problems/DCEPCA03,math, euler totient function
+DCOWS,http://www.spoj.pl/problems/DCOWS,dp
+DICT,http://www.spoj.pl/problems/DICT,trie
+DIEHARD,http://www.spoj.pl/problems/DIEHARD,dp
+DYNACON1,http://www.spoj.pl/problems/DYNACON1,link cut tree
+EC_CONB,http://www.spoj.pl/problems/EC_CONB,ad hoc
+EC_ESTA,http://www.spoj.pl/problems/EC_ESTA,online median finding
+EC_MODE,http://www.spoj.pl/problems/EC_MODE,mst
+EC_P,http://www.spoj.pl/problems/EC_P,tarjan
+EDIT,http://www.spoj.pl/problems/EDIT,dp edit distance with modifications
+EIGHTS,http://www.spoj.pl/problems/EIGHTS,ad hoc
+EKO,http://www.spoj.pl/problems/EKO,binary search
+ELEVTRBL,http://www.spoj.pl/problems/ELEVTRBL,bfs
+EMTY2,http://www.spoj.pl/problems/EMTY2,ad hoc
+ENIGMATH,http://www.spoj.pl/problems/ENIGMATH,easy math
+EXPLOSN,http://www.spoj.pl/problems/EXPLOSN,dp on tree
+FACEFRND,http://www.spoj.pl/problems/FACEFRND,ad hoc
+FANCY,http://www.spoj.pl/problems/FANCY,math
+FARIDA,http://www.spoj.pl/problems/FARIDA,dp
+FARMER,http://www.spoj.pl/problems/FARMER,ad hoc
+FASHION,http://www.spoj.pl/problems/FASHION,ad hoc
+FCTRL,http://www.spoj.pl/problems/FCTRL,math
+FIBOSUM,http://www.spoj.pl/problems/FIBOSUM,matrix exponentiation
+FLWRS,http://www.spoj.pl/problems/FLWRS,dp, formula
+FONTSIZE,http://www.spoj.pl/problems/FONTSIZE,binary search, math
+FOXLINGS,http://www.spoj.pl/problems/FOXLINGS,disjoint set
+FREQ2,http://www.spoj.pl/problems/FREQ2,sqrt decomposition, ad hoc
+FRND,http://www.spoj.pl/problems/FRND,ad hoc
+FRNDCIRC,http://www.spoj.pl/problems/FRNDCIRC,disjoint set
+GCJ082A,http://www.spoj.pl/problems/GCJ082A,dp, backtracking
+GCPC11J,http://www.spoj.pl/problems/GCPC11J,dfs, longest path
+GERGOVIA,http://www.spoj.pl/problems/GERGOVIA,greedy
+GIVEAWAY,http://www.spoj.pl/problems/GIVEAWAY,balanced binary search tree, segment tree
+GLJIVE,http://www.spoj.pl/problems/GLJIVE,ad hoc
+GNYR04C,http://www.spoj.pl/problems/GNYR04C,dp
+GONE,http://www.spoj.pl/problems/GONE,digit dp
+GOODA,http://www.spoj.pl/problems/GOODA,tarjan
+GOODB,http://www.spoj.pl/problems/GOODB,math, euler
+GOODG,http://www.spoj.pl/problems/GOODG,dp convex hull trick
+GRASSPLA,http://www.spoj.pl/problems/GRASSPLA,heavy light decomposition
+GSHOP,http://www.spoj.pl/problems/GSHOP,ad hoc
+GSS4,http://www.spoj.pl/problems/GSS4,segment tree
+GUANGGUN,http://www.spoj.pl/problems/GUANGGUN,math
+HACKRNDM,http://www.spoj.pl/problems/HACKRNDM,binary search
+HAROWS,http://www.spoj.pl/problems/HAROWS,ad hoc
+HAYBALE,http://www.spoj.pl/problems/HAYBALE,bit
+HG,http://www.spoj.pl/problems/HG,math, sieve
+HIGHWAYS,http://www.spoj.pl/problems/HIGHWAYS,mst
+HILO,http://www.spoj.pl/problems/HILO,segment tree
+HOMO,http://www.spoj.pl/problems/HOMO,ad hoc
+HORRIBLE,http://www.spoj.pl/problems/HORRIBLE,binary indexed tree
+HOTELS,http://www.spoj.pl/problems/HOTELS,sliding window
+HPYNOS,http://www.spoj.pl/problems/HPYNOS,ad hoc
+ICPC12C,http://www.spoj.pl/problems/ICPC12C,ad hoc
+IITKWPCA,http://www.spoj.pl/problems/IITKWPCA,ad hoc
+IITKWPCB,http://www.spoj.pl/problems/IITKWPCB,ad hoc
+IITKWPCE,http://www.spoj.pl/problems/IITKWPCE,ad hoc, strings
+IITKWPCO,http://www.spoj.pl/problems/IITKWPCO,ad hoc
+IITWPC4D,http://www.spoj.pl/problems/IITWPC4D,binary indexed tree
+IITWPC4E,http://www.spoj.pl/problems/IITWPC4E,segment tree, line sweep
+IITWPC4I,http://www.spoj.pl/problems/IITWPC4I,disjoint set
+IITWPC4J,http://www.spoj.pl/problems/IITWPC4J,dp
+INGRED,http://www.spoj.pl/problems/INGRED,dp bitmask
+INS14C,http://www.spoj.pl/problems/INS14C,ad hoc, greedy
+INS14K,http://www.spoj.pl/problems/INS14K,ad hoc
+IOIPALIN,http://www.spoj.pl/problems/IOIPALIN,dp lcs
+ITRIX12E,http://www.spoj.pl/problems/ITRIX12E,matrix exponentiation
+IWGBS,http://www.spoj.pl/problems/IWGBS,dp, biginteger
+JNEXT,http://www.spoj.pl/problems/JNEXT,ad hoc
+JULKA,http://www.spoj.pl/problems/JULKA,biginteger
+KFSTB,http://www.spoj.pl/problems/KFSTB,dfs, finding number of paths
+KOILINE,http://www.spoj.pl/problems/KOILINE,binary indexed tree
+KOIREP,http://www.spoj.pl/problems/KOIREP,sliding window
+KOSARE,http://www.spoj.pl/problems/KOSARE,dp hard
+KOZE,http://www.spoj.pl/problems/KOZE,bfs
+KRECT,http://www.spoj.pl/problems/KRECT,dp, bit manipulation
+KSMALL,http://www.spoj.pl/problems/KSMALL,ad hoc
+LABYR1,http://www.spoj.pl/problems/LABYR1,dfs
+LARSUBP,http://www.spoj.pl/problems/LARSUBP,binary indexed tree
+LASTDIG,http://www.spoj.pl/problems/LASTDIG,ad hoc
+LASTDIG2,http://www.spoj.pl/problems/LASTDIG2,ad hoc, biginteger
+LCA,http://www.spoj.pl/problems/LCA,lowest common ancestor
+LCPC12F,http://www.spoj.pl/problems/LCPC12F,ad hoc
+LCS,http://www.spoj.pl/problems/LCS,suffix array
+LITE,http://www.spoj.pl/problems/LITE,segment tree
+LKS,http://www.spoj.pl/problems/LKS,dp
+LOOPEXP,http://www.spoj.pl/problems/LOOPEXP,math, probability
+LOPOV,http://www.spoj.pl/problems/LOPOV,ad hoc
+LQDCANDY,http://www.spoj.pl/problems/LQDCANDY,ad hoc
+LUCIFER,http://www.spoj.pl/problems/LUCIFER,digit dp
+MAIN111,http://www.spoj.pl/problems/MAIN111,sieve, math
+MAIN112,http://www.spoj.pl/problems/MAIN112,dp bitmask
+MAIN72,http://www.spoj.pl/problems/MAIN72,dp
+MAKEMAZE,http://www.spoj.pl/problems/MAKEMAZE,bfs
+MAXWOODS,http://www.spoj.pl/problems/MAXWOODS,dp
+MAY99_2,http://www.spoj.pl/problems/MAY99_2,ad hoc
+MAY99_4,http://www.spoj.pl/problems/MAY99_4,dp
+MBALL,http://www.spoj.pl/problems/MBALL,dp
+MC,http://www.spoj.pl/problems/MC,dp
+MCAMP,http://www.spoj.pl/problems/MCAMP,greedy
+MFLAR10,http://www.spoj.pl/problems/MFLAR10,ad hoc
+MIDO,http://www.spoj.pl/problems/MIDO,ad hoc
+MINNUM,http://www.spoj.pl/problems/MINNUM,biginteger
+MISERMAN,http://www.spoj.pl/problems/MISERMAN,dp
+MKEQUAL,http://www.spoj.pl/problems/MKEQUAL,ad hoc
+MLK,http://www.spoj.pl/problems/MLK,ad hoc
+MON2012,http://www.spoj.pl/problems/MON2012,dynamic segment tree
+MRECAMAN,http://www.spoj.pl/problems/MRECAMAN,ad hoc
+MSCHED,http://www.spoj.pl/problems/MSCHED,greedy
+MSTRMND,http://www.spoj.pl/problems/MSTRMND,interactive problem
+MULTQ3,http://www.spoj.pl/problems/MULTQ3,segment tree
+MYQ1,http://www.spoj.pl/problems/MYQ1,ad hoc
+NAKANJ,http://www.spoj.pl/problems/NAKANJ,bfs
+NATALIAG,http://www.spoj.pl/problems/NATALIAG,bfs
+NAUGHTY,http://www.spoj.pl/problems/NAUGHTY,ad hoc
+NFACTOR,http://www.spoj.pl/problems/NFACTOR,sieve
+NFURY,http://www.spoj.pl/problems/NFURY,dp
+NITK06,http://www.spoj.pl/problems/NITK06,ad hoc
+NITTROAD,http://www.spoj.pl/problems/NITTROAD,reverse mst
+NR1,http://www.spoj.pl/problems/NR1,math, biginteger
+NR2,http://www.spoj.pl/problems/NR2,bit manipulation
+NSTEPS,http://www.spoj.pl/problems/NSTEPS,ad hoc
+NY10A,http://www.spoj.pl/problems/NY10A,ad hoc
+NY10E,http://www.spoj.pl/problems/NY10E,dp
+OLOLO,http://www.spoj.pl/problems/OLOLO,good ad hoc
+ONP,http://www.spoj.pl/problems/ONP,infix to postfix
+OPCPIZZA,http://www.spoj.pl/problems/OPCPIZZA,binary search
+ORDERSET,http://www.spoj.pl/problems/ORDERSET,binary indexed tree, balanced binary search tree
+PARKET1,http://www.spoj.pl/problems/PARKET1,math
+PAUWS,http://www.spoj.pl/problems/PAUWS,dp
+PEBBLE,http://www.spoj.pl/problems/PEBBLE,ad hoc, game
+PERMUT2,http://www.spoj.pl/problems/PERMUT2,ad hoc
+PIHU1,http://www.spoj.pl/problems/PIHU1,binary search
+POSTERS,http://www.spoj.pl/problems/POSTERS,ad hoc
+PPATH,http://www.spoj.pl/problems/PPATH,bfs
+PT07Y,http://www.spoj.pl/problems/PT07Y,dfs
+PT07Z,http://www.spoj.pl/problems/PT07Z,dfs
+PTIME,http://www.spoj.pl/problems/PTIME,sieve, math
+PTRELIC,http://www.spoj.pl/problems/PTRELIC,interactive problem, binary search
+PUCMM210,http://www.spoj.pl/problems/PUCMM210,ad hoc
+QN01,http://www.spoj.pl/problems/QN01,ad hoc
+QN02,http://www.spoj.pl/problems/QN02,bit manipulation
+QTREE,http://www.spoj.pl/problems/QTREE,heavy light decomposition
+RANGESUM,http://www.spoj.pl/problems/RANGESUM,binary indexed tree
+RAONE,http://www.spoj.pl/problems/RAONE,digit dp
+REPAIR1,http://www.spoj.pl/problems/REPAIR1,dp, probability, math
+RIOI_2_3,http://www.spoj.pl/problems/RIOI_2_3,bfs
+RKS,http://www.spoj.pl/problems/RKS,ad hoc
+RLTOUR,http://www.spoj.pl/problems/RLTOUR,ad hoc
+RMID,http://www.spoj.pl/problems/RMID,binary indexed tree
+RMID2,http://www.spoj.pl/problems/RMID2,binary indexed tree
+ROHAAN,http://www.spoj.pl/problems/ROHAAN,floyd warshal
+ROOTCIPH,http://www.spoj.pl/problems/ROOTCIPH,ad hoc
+RPLB,http://www.spoj.pl/problems/RPLB,dp
+RPLC,http://www.spoj.pl/problems/RPLC,ad hoc
+RPLD,http://www.spoj.pl/problems/RPLD,ad hoc
+RPLN,http://www.spoj.pl/problems/RPLN,rmq
+SAFECRAC,http://www.spoj.pl/problems/SAFECRAC,dp, dfs
+SALMAN,http://www.spoj.pl/problems/SALMAN,dfs, segment tree
+SBANK,http://www.spoj.pl/problems/SBANK,ad hoc
+SEGSQRSS,http://www.spoj.pl/problems/SEGSQRSS,segment tree
+SKY,http://www.spoj.pl/problems/SKY,binary search, bfs
+SLIDE,http://www.spoj.pl/problems/SLIDE,dp
+SMARIO,http://www.spoj.pl/problems/SMARIO,bfs, bitmask
+SNGINT,http://www.spoj.pl/problems/SNGINT,greedy
+SOLDIERS,http://www.spoj.pl/problems/SOLDIERS,biginteger
+SPCQ,http://www.spoj.pl/problems/SPCQ,ad hoc
+SPCS,http://www.spoj.pl/problems/SPCS,ad hoc
+SPCU,http://www.spoj.pl/problems/SPCU,ad hoc
+SPEC_SET,http://www.spoj.pl/problems/SPEC_SET,ad hoc
+SSEQ,http://www.spoj.pl/problems/SSEQ,binary indexed tree, binary search
+STAMPS,http://www.spoj.pl/problems/STAMPS,ad hoc
+STPAR,http://www.spoj.pl/problems/STPAR,ad hoc
+SUBMERGE,http://www.spoj.pl/problems/SUBMERGE,tarjan
+SUBSN,http://www.spoj.pl/problems/SUBSN,binary search, strings
+SUBXOR,http://www.spoj.pl/problems/SUBXOR,trie
+SUMITR,http://www.spoj.pl/problems/SUMITR,dp
+SUMSUM,http://www.spoj.pl/problems/SUMSUM,segment tree
+TAP2012D,http://www.spoj.pl/problems/TAP2012D,trie
+TAP2013C,http://www.spoj.pl/problems/TAP2013C,dp, dfs
+TBATTLE,http://www.spoj.pl/problems/TBATTLE,sieve, sliding window
+TEAM2,http://www.spoj.pl/problems/TEAM2,ad hoc
+TEMPLEQ,http://www.spoj.pl/problems/TEMPLEQ,binary indexed tree, binary search
+TESSER,http://www.spoj.pl/problems/TESSER,kmp
+TEST,http://www.spoj.pl/problems/TEST,ad hoc
+TETRAHRD,http://www.spoj.pl/problems/TETRAHRD,matrix exponentiation
+THEATRE,http://www.spoj.pl/problems/THEATRE,ad hoc
+THRBL,http://www.spoj.pl/problems/THRBL,binary indexed tree
+TIEROPE,http://www.spoj.pl/problems/TIEROPE,dp
+TIPTOP,http://www.spoj.pl/problems/TIPTOP,ad hoc
+TOANDFRO,http://www.spoj.pl/problems/TOANDFRO,ad hoc
+TRAVERSE,http://www.spoj.pl/problems/TRAVERSE,dp
+TREEORD,http://www.spoj.pl/problems/TREEORD,dfs
+TRICOUNT,http://www.spoj.pl/problems/TRICOUNT,ad hoc
+TRIGALGE,http://www.spoj.pl/problems/TRIGALGE,math, binary search
+TRIKA,http://www.spoj.pl/problems/TRIKA,dp
+TROOPS,http://www.spoj.pl/problems/TROOPS,recursion
+TSHOW1,http://www.spoj.pl/problems/TSHOW1,math, strings
+UCV2013A,http://www.spoj.pl/problems/UCV2013A,math, exponentiation by squaring
+UCV2013H,http://www.spoj.pl/problems/UCV2013H,bfs
+UCV2013J,http://www.spoj.pl/problems/UCV2013J,ad hoc
+UCV2013K,http://www.spoj.pl/problems/UCV2013K,dp bitmask
+ULM09,http://www.spoj.pl/problems/ULM09,mst
+UOFTAB,http://www.spoj.pl/problems/UOFTAB,ad hoc
+UOFTAE,http://www.spoj.pl/problems/UOFTAE,dp
+UOFTCC,http://www.spoj.pl/problems/UOFTCC,sliding window
+UOFTCD,http://www.spoj.pl/problems/UOFTCD,ad hoc
+UOFTCE,http://www.spoj.pl/problems/UOFTCE,bfs
+UOFTCF,http://www.spoj.pl/problems/UOFTCF,dp
+UPDATEIT,http://www.spoj.pl/problems/UPDATEIT,bit
+VACATION,http://www.spoj.pl/problems/VACATION,floyd warshal
+VILLAGES,http://www.spoj.pl/problems/VILLAGES,ad hoc, bit manipulation
+WACHOVIA,http://www.spoj.pl/problems/WACHOVIA,dp knapsack
+WAL3A,http://www.spoj.pl/problems/WAL3A,ad hoc
+WATER,http://www.spoj.pl/problems/WATER,bfs
+WILLITST,http://www.spoj.pl/problems/WILLITST,ad hoc
+WINDVANE,http://www.spoj.pl/problems/WINDVANE,segment tree
+WPC4F,http://www.spoj.pl/problems/WPC4F,dp
+WPC5I,http://www.spoj.pl/problems/WPC5I,sieve, math
+WTK,http://www.spoj.pl/problems/WTK,josephus
+XMEN,http://www.spoj.pl/problems/XMEN,dp lis
+YELBRICK,http://www.spoj.pl/problems/YELBRICK,ad hoc, math
+ZIGZAG,http://www.spoj.pl/problems/ZIGZAG,ad hoc
